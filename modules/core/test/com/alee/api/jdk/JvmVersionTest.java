@@ -39,7 +39,8 @@ public class JvmVersionTest
                 javaVersion.major () != 1.7 &&
                 javaVersion.major () != 1.8 &&
                 javaVersion.major () != 9.0 &&
-                javaVersion.major () != 10.0 )
+                javaVersion.major () != 10.0 &&
+                javaVersion.major () != 11.0 )
         {
             throw new RuntimeException ( "Unsupported JDK version: " + javaVersion );
         }
