@@ -33,11 +33,16 @@
             <name>Mikle Garin</name>
             <url>http://weblookandfeel.com</url>
         </developer>
+        <developer>
+            <id>mathiasritter</id>
+            <name>Mathias Ritter</name>
+            <url>https://github.com/mathiasritter</url>
+        </developer>
     </developers>
 
     <scm>
-        <url>https://github.com/mgarin/weblaf</url>
-        <connection>git@github.com:mgarin/weblaf.git</connection>
+        <url>https://github.com/mathiasritter/weblaf</url>
+        <connection>git@github.com:mathiasritter/weblaf.git</connection>
     </scm>
 
     <modules>
